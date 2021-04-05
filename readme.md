@@ -1,6 +1,6 @@
 # Photo Aligner
 
-useful for extracting stabilized image regions from handheld image sequences
+extracting stabilized image regions from handheld image sequences. dirty hack all around. consider this more of a playground repo that I can use as a base when quickly trying something.
 
 ```bash
 python -m venv venv
